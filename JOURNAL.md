@@ -13,7 +13,7 @@ After learning about Hackclub Highway, I have started to work towards my goal of
 
 # Peter Bar Kit
 
-<img src="[https://github.com/user-attachments/assets/cef81466-e99b-436f-84a9-11f4e70343bd](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKP3sO4UV5SuQeENIf_JELj_siOoyDUSaZUQ&s)" width="400"/>
+<img src="Images/PTER.jpg" width="400"/>
 
 # LYNX
 

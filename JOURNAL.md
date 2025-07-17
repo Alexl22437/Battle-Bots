@@ -17,4 +17,4 @@ After learning about Hackclub Highway, I have started to work towards my goal of
 
 # LYNX
 
-<img src="[[https://github.com/user-attachments/assets/cef81466-e99b-436f-84a9-11f4e70343bd](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKP3sO4UV5SuQeENIf_JELj_siOoyDUSaZUQ&s)](https://static.wikia.nocookie.net/ultimate-robot-archive/images/0/0a/Lynx_%287%29.jpg/revision/latest/scale-to-width/360?cb=20211011213224)" width="400"/>
+<img src="Images/LYNX.jpg" width="400"/>

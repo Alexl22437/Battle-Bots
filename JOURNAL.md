@@ -23,4 +23,4 @@ After learning about Hackclub Highway, I have started to work towards my goal of
 
 <img src="Images/LYNX.jpg" width="400"/>
 
-
+---

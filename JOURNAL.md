@@ -18,3 +18,5 @@ After learning about Hackclub Highway, I have started to work towards my goal of
 # LYNX
 
 <img src="Images/LYNX.jpg" width="400"/>
+
+**Total Time spent: 2h (7/17/24)**

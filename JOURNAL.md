@@ -5,6 +5,8 @@ description: "3lb Battle Bot, competing under NHRL"
 created_at: "2025-07-16"
 ---
 
+---
+
 **Total Time spent: 36h**
 
 **(7/17/24)**

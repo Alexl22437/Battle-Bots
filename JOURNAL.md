@@ -4,3 +4,17 @@ author: "Alex Lopez"
 description: "3lb Battle Bot, competing under NHRL"
 created_at: "2025-07-16"
 ---
+
+**Total Time spent: 36h**
+
+# Started research on NHRL and 3LB robots
+
+After learning about Hackclub Highway, I have started to work towards my goal of building a Beetle weight battle bot. This idea came to mind months ago before halting my research due to other robotic competitions I have been involved in. During my time, today I had researched bots to give me inspiration for my robot. I've landed a final decision to do a vertical spinner with two separate blades, inspired by the Peter Bar Kit and one of the best bots, Lynx. After finding a bot to get inspired from, I looked into registration and events I could compete in.
+
+# Peter Bar Kit
+
+<img src="[https://github.com/user-attachments/assets/cef81466-e99b-436f-84a9-11f4e70343bd](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKP3sO4UV5SuQeENIf_JELj_siOoyDUSaZUQ&s)" width="400"/>
+
+# LYNX
+
+<img src="[[https://github.com/user-attachments/assets/cef81466-e99b-436f-84a9-11f4e70343bd](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKP3sO4UV5SuQeENIf_JELj_siOoyDUSaZUQ&s)](https://static.wikia.nocookie.net/ultimate-robot-archive/images/0/0a/Lynx_%287%29.jpg/revision/latest/scale-to-width/360?cb=20211011213224)" width="400"/>

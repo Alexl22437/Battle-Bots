@@ -24,3 +24,19 @@ After learning about Hackclub Highway, I have started to work towards my goal of
 <img src="Images/LYNX.jpg" width="400"/>
 
 ---
+
+## July 18, 2025
+
+#Started on Robot sketch  **Total Time spent: 4h**
+
+Once I had a robot design set in mind, it was finally time to sketch out parts of the robot. I decided to start with the frame first since its a priority to make it beofre adding anything else like the motors and blades. The entire base I wanted would be around 8 by 8 inches in order to make it stable in a boxy way.
+
+# Inner Plate Sketch 1
+
+<img src="Images/Sketch 1.jpg" width="400"/>
+
+# Inner Plate Sketch 2
+
+<img src="Images/Sketch 2.jpg" width="400"/>
+
+---

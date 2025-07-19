@@ -11,7 +11,9 @@ created_at: "2025-07-16"
 
 ## July 17, 2025
 
-#Started research on NHRL and 3LB robots  **Total Time spent: 2h**
+#Started research on NHRL and 3LB robots  
+
+**Total Time spent: 2h**
 
 After learning about Hackclub Highway, I have started to work towards my goal of building a Beetle weight battle bot. This idea came to mind months ago before halting my research due to other robotic competitions I have been involved in. During my time, today I had researched bots to give me inspiration for my robot. I've landed a final decision to do a vertical spinner with two separate blades, inspired by the Peter Bar Kit and one of the best bots, Lynx. After finding a bot to get inspired from, I looked into registration and events I could compete in.
 
@@ -27,7 +29,9 @@ After learning about Hackclub Highway, I have started to work towards my goal of
 
 ## July 18, 2025
 
-#Started on Robot sketch  **Total Time spent: 4h**
+#Started on Robot sketch 
+
+**Total Time spent: 4h**
 
 Once I had a robot design set in mind, it was finally time to sketch out parts of the robot. I decided to start with the frame first since its a priority to make it beofre adding anything else like the motors and blades. The entire base I wanted would be around 8 by 8 inches in order to make it stable in a boxy way.
 

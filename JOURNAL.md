@@ -31,7 +31,7 @@ After learning about Hackclub Highway, I have started to work towards my goal of
 
 #Started on Robot sketch 
 
-**Total Time spent: 4h**
+**Total Time spent: 2h**
 
 Once I had a robot design set in mind, it was finally time to sketch out parts of the robot. I decided to start with the frame first since its a priority to make it beofre adding anything else like the motors and blades. The entire base I wanted would be around 8 by 8 inches in order to make it stable in a boxy way.
 
@@ -42,5 +42,23 @@ Once I had a robot design set in mind, it was finally time to sketch out parts o
 # Inner Plate Sketch 2
 
 <img src="Images/Sketch 2.jpg" width="400"/>
+
+---
+
+## July 19, 2025
+
+#Started making Sketch from 2D to 3D 
+
+**Total Time spent: 2h**
+
+After sketching out the inner plates, I extruded sketch to .5". The inner plates would be made out of HTPE material which is very strong and a light weight option for a beetle weight robot. Once completed, I created my outer armor plates which will hold my drive shafts and provide extra protection to my entire bot. The armor will be made out of PC (Polycarbonate) filament instead of HTPE as a TON of spares would be needed as it would take on hard hits.
+
+# Inner Plate
+
+<img src="Images/image.webp" width="400"/>
+
+# Outer Plate
+
+<img src="Images/image (1).webp" width="400"/>
 
 ---

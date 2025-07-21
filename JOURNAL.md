@@ -59,6 +59,6 @@ After sketching out the inner plates, I extruded sketch to .5". The inner plates
 
 # Outer Plate
 
-<img src="Images/image(1).webp" width="400"/>
+<img src="Images/image (2).webp" width="400"/>
 
 ---

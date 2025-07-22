@@ -13,7 +13,7 @@ created_at: "2025-07-16"
 
 #Started research on NHRL and 3LB robots  
 
-**Total Time spent: 2h**
+**Total Time spent: 3h**
 
 After learning about Hackclub Highway, I have started to work towards my goal of building a Beetle weight battle bot. This idea came to mind months ago before halting my research due to other robotic competitions I have been involved in. During my time, today I had researched bots to give me inspiration for my robot. I've landed a final decision to do a vertical spinner with two separate blades, inspired by the Peter Bar Kit and one of the best bots, Lynx. After finding a bot to get inspired from, I looked into registration and events I could compete in.
 
@@ -49,7 +49,7 @@ Once I had a robot design set in mind, it was finally time to sketch out parts o
 
 #Started making Sketch from 2D to 3D 
 
-**Total Time spent: 2h**
+**Total Time spent: 1h**
 
 After sketching out the inner plates, I extruded sketch to .5". The inner plates would be made out of HTPE material which is very strong and a light weight option for a beetle weight robot. Once completed, I created my outer armor plates which will hold my drive shafts and provide extra protection to my entire bot. The armor will be made out of PC (Polycarbonate) filament instead of HTPE as a TON of spares would be needed as it would take on hard hits.
 
@@ -62,3 +62,20 @@ After sketching out the inner plates, I extruded sketch to .5". The inner plates
 <img src="Images/image.webp" width="400"/>
 
 ---
+
+## July 20, 2025
+
+#Added parts onto chassis/belly plate creation
+
+**Total Time spent: 3h**
+
+After sketching out the inner plates, I extruded sketch to .5". The inner plates would be made out of HTPE material which is very strong and a light weight option for a beetle weight robot. Once completed, I created my outer armor plates which will hold my drive shafts and provide extra protection to my entire bot. The armor will be made out of PC (Polycarbonate) filament instead of HTPE as a TON of spares would be needed as it would take on hard hits.
+
+# Inner Plate
+
+<img src="Images/image (2).webp" width="400"/>
+
+# Outer Plate
+
+<img src="Images/image.webp" width="400"/>
+

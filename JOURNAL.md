@@ -101,15 +101,41 @@ I started on making my own wheels since I would be able to change up the diamter
 
 **Total Time spent: 4h**
 
-I have all of my main frame done, so I would need to focus on my weapon system. I chose to go with the Repeat 2836 as it offers a low cost and a fast option for the weapon I want to create. Before I started, I needed to create my own custom pulley. I decided the ratio to be 30Tooth to a 34Tooth on the weapon. I used a pulley generator to help me make the s3m tooth on the pulley then extruded it to 1/4 of a inch to support a 6mm thick belt. I then created teh side walls so the pulley wouldn't slip, I made this entire thing modular and cncable to ensure I have tons of spares and that it would never break. After this was done I then created the motor mount, since the entire bell rotates I used the mounting holes in the back and supported it with the walls of my chassis, I then utilized the motor shaft to support the other end of the motor, including a bearing so when it was on, the shaft would smoothly rotate on the supporting end.
+I have all of my main frame done, so I would need to focus on my weapon system. I chose to go with the Repeat 2836 as it offers a low cost and a fast option for the weapon I want to create. Before I started, I needed to create my own custom pulley. I decided the ratio to be 30Tooth to a 34Tooth on the weapon. I used a pulley generator to help me make the s3m tooth on the pulley then extruded it to 1/4 of a inch to support a 6mm thick belt. I then created the side walls so the pulley wouldn't slip, I made this entire thing modular and cncable to ensure I have tons of spares and that it would never break. After this was done I then created the motor mount, since the entire bell rotates I used the mounting holes in the back and supported it with the walls of my chassis, I then utilized the motor shaft to support the other end of the motor, including a bearing so when it was on, the shaft would smoothly rotate on the supporting end.
 
-# custom pulley
+# Custom pulley
 
 <img src="Images/image (11).webp" width="400"/>
 
 # Motor mount
 
 <img src="Images/image (10).webp" width="400"/>
+
+---
+
+## July 23, 2025
+
+#Finalized weapon system
+
+**Total Time spent: 6h**
+
+it was time to finilze this battle bot, after various iterations I had stuck to what was simple and easy to do. First I needed to find a screw and nut to support the entire mechanism, which I had found on palm beach robotics. I added it to cad but it was too long for my liking, making me search for a better alternative. I searched in McMaster Carr to find an exact product that was shortened, best part was that it was made of Steel! Steel would be the strongest material I could find for this weapon so I designed around the shaft diameter and changed up my holes so it would easily fith through my mounting plates. After that was done, I had created my weapon blade, I wanted the diameter of it to be around 95mm and be .25" thick. I created a simple design which had two cutting edges on each side, which was the best if I wanted to have even weight and create a powerful impact. I connected these plates with 4 steel shafts and made spacers so the screws dont damage the blade. Once that was done I needed to make my pulley that will slide into the blade shafts, I took inspiration from the peter bar kit which used the same mechanism. Using the same technique, I was able to make my own and replicate the one from peter bar with a 34tooth belt pulley on the print. I also added the shaft patterns so I can just slide it into the connectors for the blades. I also made holes for bearings to fit in so it wouldn't scrape along the bar and would run smoothly instead. I then added all of the parts to create my finalized weapon system.
+
+# Blade
+
+<img src="Images/image (12).webp" width="400"/>
+
+# 3D printed Pulley
+
+<img src="Images/image (13).webp" width="400"/>
+
+# Shaft mech
+
+<img src="Images/image (14).webp" width="400"/>
+
+# Entire weapon system
+
+<img src="Images/image (15).webp" width="400"/>
 
 ---
 

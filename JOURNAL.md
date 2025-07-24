@@ -75,4 +75,24 @@ Once I had the inner and outer plates done, it was time to connect them all so i
 
 <img src="Images/image (7).webp" width="400"/>
 
+---
+
+## July 21, 2025
+
+#Created wheels and top mounting plates
+
+**Total Time spent: 4h**
+
+I started on making my own wheels since I would be able to change up the diamter of the wheel to what ever I desired. The bot would use 45mm Diamter wheels in order to ensure I have enough grip on the wooden floor of the arena. I made these wheels so that I would need a silicon mold which when hardened, it would have the grip I would need without having to use foam or printed wheels. After I have completed this I had started working ont he top mounting plates for the rest of the structure. There will be 2 plates on the top, one for the main frame and one to mount the weapon motor. These plates would be made out of carbon fiber which offers strong and light weight solutions to what I need to stay under the 3LB limi set by NHRL.
+
+# Top plates
+
+<img src="Images/image (8).webp" width="400"/>
+
+# Wheels
+
+<img src="Images/image (9).webp" width="400"/>
+
+---
+
 

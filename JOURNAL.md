@@ -95,4 +95,22 @@ I started on making my own wheels since I would be able to change up the diamter
 
 ---
 
+## July 22, 2025
+
+#Created the motor mount and custom pulley
+
+**Total Time spent: 4h**
+
+I have all of my main frame done, so I would need to focus on my weapon system. I chose to go with the Repeat 2836 as it offers a low cost and a fast option for the weapon I want to create. Before I started, I needed to create my own custom pulley. I decided the ratio to be 30Tooth to a 34Tooth on the weapon. I used a pulley generator to help me make the s3m tooth on the pulley then extruded it to 1/4 of a inch to support a 6mm thick belt. I then created teh side walls so the pulley wouldn't slip, I made this entire thing modular and cncable to ensure I have tons of spares and that it would never break. After this was done I then created the motor mount, since the entire bell rotates I used the mounting holes in the back and supported it with the walls of my chassis, I then utilized the motor shaft to support the other end of the motor, including a bearing so when it was on, the shaft would smoothly rotate on the supporting end.
+
+# custom pulley
+
+<img src="Images/image (11).webp" width="400"/>
+
+# Motor mount
+
+<img src="Images/image (10).webp" width="400"/>
+
+---
+
 

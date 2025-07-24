@@ -69,13 +69,10 @@ After sketching out the inner plates, I extruded sketch to .5". The inner plates
 
 **Total Time spent: 3h**
 
-After sketching out the inner plates, I extruded sketch to .5". The inner plates would be made out of HTPE material which is very strong and a light weight option for a beetle weight robot. Once completed, I created my outer armor plates which will hold my drive shafts and provide extra protection to my entire bot. The armor will be made out of PC (Polycarbonate) filament instead of HTPE as a TON of spares would be needed as it would take on hard hits.
+Once I had the inner and outer plates done, it was time to connect them all so it would form a structure. I created my belly and motor mounts and added it to the desired area from the sketch I made. I also added holes and mounts to support the drive motors and the belly plate in the bottom
 
-# Inner Plate
+# Main Structure
 
-<img src="Images/image (2).webp" width="400"/>
+<img src="Images/image (7).webp" width="400"/>
 
-# Outer Plate
-
-<img src="Images/image.webp" width="400"/>
 

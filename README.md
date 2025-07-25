@@ -10,7 +10,7 @@ I am a student that is inspired by engineering, I come from a team in my school 
 
 ## Cheddar Shredder
 
-<img src="Images/Cheddar Shredder V2 v17.png" width="400"/> <img src="Images/Cheddar Shredder V2 v172.png" width="400"/>
+<img src="Images/Cheddar_Shredder_V2_v17 (1).webp" width="400"/> <img src="Images/Cheddar Shredder V2 v172.png" width="400"/>
 
 ## Power Distribution PCB
 

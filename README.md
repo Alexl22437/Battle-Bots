@@ -18,22 +18,22 @@ I am a student that is inspired by engineering, I come from a team in my school 
 
 ## BOM
 
-Company,Part,Cost Per Pcs,QTY,Total Cost,Link
-,,,,,
-PARTS LEFT,,,,,
-RepeatRobotics,Weapon ESC,$30,1,$30,https://www.amazon.com/gp/product/B0DQKS5Z63?smid=A399B0GHKF2YQX&th=1
-PalmBeachBots,Drive Esc,$14,2,$28,https://palmbeachbots.com/products/bl-heli-20a-brushless-speed-controller-reversing?_pos=7&_sid=327742323&_ss=r
-RepeatRobotics,Drive Motor,$45,2,$90,https://repeat-robotics.com/buy/repeat-compact-1806/
-RepeatRobotics,Weapon Motor,$20,1,$20,https://repeat-robotics.com/buy/2836-beetle-brushless-motor/
-McMaster Carr,".5"" HDPE Material ",$16.69,1,$16.69,https://www.mcmaster.com/8619K471/
-Send Cut Send,ALL CNC PARTS(STEEL BLADE),$31,1,$31,
-Send Cut Send,All CNC parts (CARBON FIBER),$54,1,$54,
-RepeatRobotics,Needle Bearings,$6,2,$12,https://repeat-robotics.com/buy/tc512-needle-thrust-bearing/
-RepeatRobotics,Needle Bearings,$3,2,$6,https://palmbeachbots.com/products/sce55-needle-roller-bearing-3-pound-beater-bar-spares?_pos=3&_sid=d32c8aa0d&_ss=r
-McMaster Carr,Lock Nuts,$5.64,1,$5.64,https://www.mcmaster.com/97135A225/
-McMaster Carr,Weapon Shaft,$12.49,1,$12.49,https://www.mcmaster.com/91257A445/
-Amazon,Battery,$14.99,1,$14.99,https://www.amazon.com/OVONIC-14-8V-130C-850mAh-Battery/dp/B0D3F6Z37F/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9._yNVV14MyvTzM0PwA7CHjcgLLmpFRMxUGmhqeoeZL0E8oktDB2WmgBzKBE_-nt1iChI83luzGLCTsdmWiytJL5yCYANCuN1s9_jhAF3h37Rwhl4tyfU0zAxTpxZ3hk0I5pDtQqirSoZCX2Md2A_KzxZwD5F_JwnHlAYw8zMc9WZZeaLl4S80Ck0Z5FUZH2LxMn4FqPM7GbPn26sJeF0ShKILum-XQC2qZfiV59h6qncKD-DmPnLKwsG7FJZew49O3348Y_XgVOrjs7UvfgAb9Kjae21pEldOSKNlxZpupX0.tmf5kSEb9ZWtspDsrTVTCkrFIO5L19-4Fo67zb3oYkE&dib_tag=se&keywords=4S+850mAh+XT60+Gen2+95C&qid=1753168667&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-JLCPCB,Custom Pcb (Power distributer),$5,1,$5,
-,Shipping,,,$23,
-,,,,,
-,,,TOTAL,$349
+Company	Part	Cost Per Pcs	QTY	Total Cost	Link
+					
+PARTS LEFT					
+RepeatRobotics	Weapon ESC	$30	1	$30	https://www.amazon.com/gp/product/B0DQKS5Z63?smid=A399B0GHKF2YQX&th=1
+PalmBeachBots	Drive Esc	$14	2	$28	https://palmbeachbots.com/products/bl-heli-20a-brushless-speed-controller-reversing?_pos=7&_sid=327742323&_ss=r
+RepeatRobotics	Drive Motor	$45	2	$90	https://repeat-robotics.com/buy/repeat-compact-1806/
+RepeatRobotics	Weapon Motor	$20	1	$20	https://repeat-robotics.com/buy/2836-beetle-brushless-motor/
+McMaster Carr	.5" HDPE Material 	$16.69	1	$16.69	https://www.mcmaster.com/8619K471/
+Send Cut Send	ALL CNC PARTS(STEEL BLADE)	$31	1	$31	
+Send Cut Send	All CNC parts (CARBON FIBER)	$54	1	$54	
+RepeatRobotics	Needle Bearings	$6	2	$12	https://repeat-robotics.com/buy/tc512-needle-thrust-bearing/
+RepeatRobotics	Needle Bearings	$3	2	$6	https://palmbeachbots.com/products/sce55-needle-roller-bearing-3-pound-beater-bar-spares?_pos=3&_sid=d32c8aa0d&_ss=r
+McMaster Carr	Lock Nuts	$5.64	1	$5.64	https://www.mcmaster.com/97135A225/
+McMaster Carr	Weapon Shaft	$12.49	1	$12.49	https://www.mcmaster.com/91257A445/
+Amazon	Battery	$14.99	1	$14.99	https://www.amazon.com/OVONIC-14-8V-130C-850mAh-Battery/dp/B0D3F6Z37F/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9._yNVV14MyvTzM0PwA7CHjcgLLmpFRMxUGmhqeoeZL0E8oktDB2WmgBzKBE_-nt1iChI83luzGLCTsdmWiytJL5yCYANCuN1s9_jhAF3h37Rwhl4tyfU0zAxTpxZ3hk0I5pDtQqirSoZCX2Md2A_KzxZwD5F_JwnHlAYw8zMc9WZZeaLl4S80Ck0Z5FUZH2LxMn4FqPM7GbPn26sJeF0ShKILum-XQC2qZfiV59h6qncKD-DmPnLKwsG7FJZew49O3348Y_XgVOrjs7UvfgAb9Kjae21pEldOSKNlxZpupX0.tmf5kSEb9ZWtspDsrTVTCkrFIO5L19-4Fo67zb3oYkE&dib_tag=se&keywords=4S+850mAh+XT60+Gen2+95C&qid=1753168667&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+JLCPCB	Custom Pcb (Power distributer)	$5	1	$5	
+	Shipping			$23	
+					
+			TOTAL	$349	

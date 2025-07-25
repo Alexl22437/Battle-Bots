@@ -5,7 +5,7 @@ description: "3lb Battle Bot, competing under NHRL"
 created_at: "2025-07-16"
 ---
 
-**Total Time spent: 36h**
+**Total Time spent: 28h**
 
 ---
 
@@ -31,7 +31,7 @@ After learning about Hackclub Highway, I have started to work towards my goal of
 
 #Started on Robot sketch 
 
-**Total Time spent: 2h**
+**Total Time spent: 3h**
 
 Once I had a robot design set in mind, it was finally time to sketch out parts of the robot. I decided to start with the frame first since its a priority to make it beofre adding anything else like the motors and blades. The entire base I wanted would be around 8 by 8 inches in order to make it stable in a boxy way.
 
@@ -49,7 +49,7 @@ Once I had a robot design set in mind, it was finally time to sketch out parts o
 
 #Started making Sketch from 2D to 3D 
 
-**Total Time spent: 1h**
+**Total Time spent: 2h**
 
 After sketching out the inner plates, I extruded sketch to .5". The inner plates would be made out of HTPE material which is very strong and a light weight option for a beetle weight robot. Once completed, I created my outer armor plates which will hold my drive shafts and provide extra protection to my entire bot. The armor will be made out of PC (Polycarbonate) filament instead of HTPE as a TON of spares would be needed as it would take on hard hits.
 
@@ -119,7 +119,7 @@ I have all of my main frame done, so I would need to focus on my weapon system. 
 
 **Total Time spent: 6h**
 
-it was time to finilze this battle bot, after various iterations I had stuck to what was simple and easy to do. First I needed to find a screw and nut to support the entire mechanism, which I had found on palm beach robotics. I added it to cad but it was too long for my liking, making me search for a better alternative. I searched in McMaster Carr to find an exact product that was shortened, best part was that it was made of Steel! Steel would be the strongest material I could find for this weapon so I designed around the shaft diameter and changed up my holes so it would easily fith through my mounting plates. After that was done, I had created my weapon blade, I wanted the diameter of it to be around 95mm and be .25" thick. I created a simple design which had two cutting edges on each side, which was the best if I wanted to have even weight and create a powerful impact. I connected these plates with 4 steel shafts and made spacers so the screws dont damage the blade. Once that was done I needed to make my pulley that will slide into the blade shafts, I took inspiration from the peter bar kit which used the same mechanism. Using the same technique, I was able to make my own and replicate the one from peter bar with a 34tooth belt pulley on the print. I also added the shaft patterns so I can just slide it into the connectors for the blades. I also made holes for bearings to fit in so it wouldn't scrape along the bar and would run smoothly instead. I then added all of the parts to create my finalized weapon system.
+It was time to create the weaponsystem, after various iterations I had stuck to what was simple and easy to do. First I needed to find a screw and nut to support the entire mechanism, which I had found on palm beach robotics. I added it to cad but it was too long for my liking, making me search for a better alternative. I searched in McMaster Carr to find an exact product that was shortened, best part was that it was made of Steel! Steel would be the strongest material I could find for this weapon so I designed around the shaft diameter and changed up my holes so it would easily fith through my mounting plates. After that was done, I had created my weapon blade, I wanted the diameter of it to be around 95mm and be .25" thick. I created a simple design which had two cutting edges on each side, which was the best if I wanted to have even weight and create a powerful impact. I connected these plates with 4 steel shafts and made spacers so the screws dont damage the blade. Once that was done I needed to make my pulley that will slide into the blade shafts, I took inspiration from the peter bar kit which used the same mechanism. Using the same technique, I was able to make my own and replicate the one from peter bar with a 34tooth belt pulley on the print. I also added the shaft patterns so I can just slide it into the connectors for the blades. I also made holes for bearings to fit in so it wouldn't scrape along the bar and would run smoothly instead. I then added all of the parts to create my finalized weapon system.
 
 # Blade
 
@@ -138,5 +138,22 @@ it was time to finilze this battle bot, after various iterations I had stuck to 
 <img src="Images/image (15).webp" width="400"/>
 
 ---
+
+---
+
+## July 24, 2025
+
+#Finalized bot
+
+**Total Time spent: 3h**
+
+It was time to finilze this battle bot, after a lot of hours spent making each 
+# Blade
+
+<img src="Images/image (12).webp" width="400"/>
+
+# 3D printed Pulley
+
+<img src="Images/image (13).webp" width="400"/>
 
 

@@ -147,13 +147,12 @@ It was time to create the weaponsystem, after various iterations I had stuck to 
 
 **Total Time spent: 3h**
 
-It was time to finilze this battle bot, after a lot of hours spent making each 
-# Blade
+It was time to finilze this battle bot, after a lot of hours spent making each mechanism, I was done. I had made sure every hole is in the proper size and overall made sure everything was perfect and ready to build. ther were some slight issues with material thickness so I had to rearrange a lot of the part but overall it was looking solid. I then calculated the entire weight and surprisingly, I had stayed under the weight limit! I had learned a lot from building this bot from scratch and valuble lessons that I could take into other projects besides battle bots. Overall amazing progress within the last couple days and I hope I get to do more of these in the future!
 
-<img src="Images/image (12).webp" width="400"/>
+# Finalized robot
 
-# 3D printed Pulley
+<img src="Images/Cheddar_Shredder_V2_v17 (1).webp"/>
 
-<img src="Images/image (13).webp" width="400"/>
+
 
 

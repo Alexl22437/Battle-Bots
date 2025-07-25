@@ -36,4 +36,4 @@ Amazon,Battery,$14.99,1,$14.99,https://www.amazon.com/OVONIC-14-8V-130C-850mAh-B
 JLCPCB,Custom Pcb (Power distributer),$5,1,$5,
 ,Shipping,,,$23,
 ,,,,,
-,,,TOTAL,$349,
+,,,TOTAL,$349

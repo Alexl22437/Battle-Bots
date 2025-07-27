@@ -16,6 +16,10 @@ I am a student that is inspired by engineering, I come from a team in my school 
 
 <img src="Images/image (16).webp" width="400"/>   <img src="Images/image (17).webp" width="400"/> 
 
+## PCB Schematic
+
+<img src="Images/SCHEMATIC.webp" width="400"/>
+
 ## Wiring Diagram
 
 <img src="Images/image (18).webp" width="400"/>

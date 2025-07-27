@@ -125,6 +125,10 @@ It was time to create the weaponsystem, after various iterations I had stuck to 
 
 <img src="Images/image (12).webp" width="400"/>
 
+# Weapon blade stress analysis
+
+<img src="Images/image cv2.png" width="400"/>
+
 # 3D printed Pulley
 
 <img src="Images/image (13).webp" width="400"/>

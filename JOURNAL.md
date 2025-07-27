@@ -125,12 +125,6 @@ It was time to create the weaponsystem, after various iterations I had stuck to 
 
 <img src="Images/image (12).webp" width="400"/>
 
-# Weapon blade stress analysis
-
-<img src="Images/image cv2.png" width="400"/>
-
-I created my own simulation on Fusion 360 to test the weapon's stress points when force is applied on it, this allowed to to create the most optimal blade that wont break and bend under that much load.
-
 # 3D printed Pulley
 
 <img src="Images/image (13).webp" width="400"/>
@@ -143,7 +137,12 @@ I created my own simulation on Fusion 360 to test the weapon's stress points whe
 
 <img src="Images/image (15).webp" width="400"/>
 
----
+# Pocketed weapon blade stress analysis
+
+<img src="Images/image cv2.png" width="400"/>
+
+I created my own simulation on Fusion 360 to test the weapon's stress points when force is applied on it, this allowed to to create the most optimal blade that wont break and bend under that much load.
+
 
 ---
 
@@ -159,6 +158,6 @@ It was time to finilze this battle bot, after a lot of hours spent making each m
 
 <img src="Images/Cheddar_Shredder_V2_v17 (1).webp"/>
 
-
+---
 
 

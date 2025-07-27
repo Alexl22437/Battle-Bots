@@ -83,7 +83,7 @@ Once I had the inner and outer plates done, it was time to connect them all so i
 
 **Total Time spent: 4h**
 
-I started on making my own wheels since I would be able to change up the diamter of the wheel to what ever I desired. The bot would use 45mm Diamter wheels in order to ensure I have enough grip on the wooden floor of the arena. I made these wheels so that I would need a silicon mold which when hardened, it would have the grip I would need without having to use foam or printed wheels. After I have completed this I had started working ont he top mounting plates for the rest of the structure. There will be 2 plates on the top, one for the main frame and one to mount the weapon motor. These plates would be made out of carbon fiber which offers strong and light weight solutions to what I need to stay under the 3LB limi set by NHRL.
+I started on making my own wheels since I would be able to change up the diamter of the wheel to what ever I desired. The bot would use 45mm Diamter wheels in order to ensure I have enough grip on the wooden floor of the arena. I made these wheels so that I would need a silicon mold which when hardened, it would have the grip I would need without having to use foam or printed wheels. After I have completed this I had started working on the top mounting plates for the rest of the structure. There will be 2 plates on the top, one for the main frame and one to mount the weapon motor. These plates would be made out of carbon fiber which offers strong and light weight solutions to what I need to stay under the 3LB limi set by NHRL.
 
 # Top plates
 
@@ -119,7 +119,7 @@ I have all of my main frame done, so I would need to focus on my weapon system. 
 
 **Total Time spent: 6h**
 
-It was time to create the weaponsystem, after various iterations I had stuck to what was simple and easy to do. First I needed to find a screw and nut to support the entire mechanism, which I had found on palm beach robotics. I added it to cad but it was too long for my liking, making me search for a better alternative. I searched in McMaster Carr to find an exact product that was shortened, best part was that it was made of Steel! Steel would be the strongest material I could find for this weapon so I designed around the shaft diameter and changed up my holes so it would easily fith through my mounting plates. After that was done, I had created my weapon blade, I wanted the diameter of it to be around 95mm and be .25" thick. I created a simple design which had two cutting edges on each side, which was the best if I wanted to have even weight and create a powerful impact. I connected these plates with 4 steel shafts and made spacers so the screws dont damage the blade. Once that was done I needed to make my pulley that will slide into the blade shafts, I took inspiration from the peter bar kit which used the same mechanism. Using the same technique, I was able to make my own and replicate the one from peter bar with a 34tooth belt pulley on the print. I also added the shaft patterns so I can just slide it into the connectors for the blades. I also made holes for bearings to fit in so it wouldn't scrape along the bar and would run smoothly instead. I then added all of the parts to create my finalized weapon system.
+It was time to create the weapon system, after various iterations I had stuck to what was simple and easy to do. First I needed to find a screw and nut to support the entire mechanism, which I had found on palm beach robotics. I added it to the cad but it was too long for my liking, making me search for a better alternative. I searched in McMaster Carr to find an exact product that was shortened, best part was that it was made of Steel! Steel would be the strongest material I could find for this weapon so I designed around the shaft diameter and changed up my holes so it would easily fith through my mounting plates. After that was done, I had created my weapon blade, I wanted the diameter of it to be around 95mm and be .25" thick. I created a simple design which had two cutting edges on each side, which was the best if I wanted to have even weight and create a powerful impact. I connected these plates with 4 steel shafts and made spacers so the screws dont damage the blade. Once that was done I needed to make my pulley that will slide into the blade shafts, I took inspiration from the peter bar kit which used the same mechanism. Using the same technique, I was able to make my own and replicate the one from peter bar with a 34tooth belt pulley on the print. I also added the shaft patterns so I can just slide it into the connectors for the blades. I also made holes for bearings to fit in so it wouldn't scrape along the bar and would run smoothly instead. I then added all of the parts to create my finalized weapon system.
 
 # Blade
 
@@ -141,7 +141,7 @@ It was time to create the weaponsystem, after various iterations I had stuck to 
 
 <img src="Images/image cv2.png" width="400"/>
 
-I created my own simulation on Fusion 360 to test the weapon's stress points when force is applied on it. This allowed to to create the most optimal blade which distributes force across a large portion of the blade minimizes stress concentrations, leading to improved durability and reduced risk of failure during high-impact scenarios.
+I created my own simulation on Fusion 360 to test the weapon's stress points when force is applied on it. This allowed me to create the most optimal blade which distributes force across a large portion of the blade minimizes stress concentrations, leading to improved durability and reduced risk of failure during high-impact scenarios.
 
 
 ---
@@ -152,7 +152,7 @@ I created my own simulation on Fusion 360 to test the weapon's stress points whe
 
 **Total Time spent: 3h**
 
-It was time to finilze this battle bot, after a lot of hours spent making each mechanism, I was done. I had made sure every hole is in the proper size and overall made sure everything was perfect and ready to build. ther were some slight issues with material thickness so I had to rearrange a lot of the part but overall it was looking solid. I then calculated the entire weight and surprisingly, I had stayed under the weight limit! I had learned a lot from building this bot from scratch and valuble lessons that I could take into other projects besides battle bots. Overall amazing progress within the last couple days and I hope I get to do more of these in the future!
+It was time to finalize this battle bot, after a lot of hours spent making each mechanism, I was done. I had to make sure every hole is the proper size and overall made sure everything was perfect and ready to build. There were some slight issues with material thickness so I had to rearrange a lot of the part but overall it was looking solid. I then calculated the entire weight and surprisingly, I had stayed under the weight limit! I had learned a lot from building this bot from scratch and valuble lessons that I could take into other projects besides battle bots. Overall amazing progress within the last couple days and I hope I get to do more of these in the future!
 
 # Finalized robot
 

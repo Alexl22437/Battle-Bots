@@ -166,7 +166,7 @@ It was time to finalize this battle bot, after a lot of hours spent making each 
 
 **Total Time spent: 3h**
 
-I wanted to spice up my bot a bit by adding a set of shuffler pods as its drive to replace the wheel drive. I looked into how other people did their shuffler pods and the math or secrets behind it. After doing some research, I learned that each leg of the pods had to be around 120 degrees apart from each other, 360 degrees divided by 3. After doing my research and some help from perspectives of other people, I started designing my shuffler pod. My main drive for the pod would be a repeat 1806 motor attached to the middle of the legs. 
+I wanted to spice up my bot a bit by adding a set of shuffler pods as its drive to replace the wheel drive. I looked into how other people did their shuffler pods and the math or secrets behind it. After doing some research, I learned that each leg of the pods had to be around 120 degrees apart from each other, 360 degrees divided by 3. After doing my research and some help from perspectives of other people, I started designing my shuffler pod. My main drive for the pod would be a repeat 1806 motor attached to the middle of the legs, with a print attatching to a hub mount allowing it to be driven with the motor. after I created by series of circles with bearings following the 120 degree rotation I created the legs. The legs have 3 little feet on the bottom so it would just glide through the floor, the feet would also have a rubbery material to allow it to grip onto the floor. I also needed supports for these parts towards the ends of the legs, so utilizing the shafts that were meant for wheels were now used as supports to make sure that the legs dont just rotate around the motor axis.
 
 # Motor Mount
 
@@ -179,6 +179,11 @@ I wanted to spice up my bot a bit by adding a set of shuffler pods as its drive 
 # Leg support prints
 
 <img src="Images/image.png"/> 
+
+## Cheddar Shredder (Shuffler Pod Drive)
+
+<img src="Images/Cheddar Shredder V2 (SUFFLER) v1.png" width="400"/>
+ 
 ---
 
 

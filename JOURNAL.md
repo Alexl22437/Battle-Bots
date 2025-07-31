@@ -160,4 +160,25 @@ It was time to finalize this battle bot, after a lot of hours spent making each 
 
 ---
 
+## July 31, 2025
+
+#Created Shuffler Pods
+
+**Total Time spent: 3h**
+
+I wanted to spice up my bot a bit by adding a set of shuffler pods as its drive to replace the wheel drive. I looked into how other people did their shuffler pods and the math or secrets behind it. After doing some research, I learned that each leg of the pods had to be around 120 degrees apart from each other, 360 degrees divided by 3. After doing my research and some help from perspectives of other people, I started designing my shuffler pod. My main drive for the pod would be a repeat 1806 motor attached to the middle of the legs. 
+
+# Motor Mount
+
+<img src="Images/image (19).webp"/>
+
+# Legs
+
+<img src="Images/image (20).webp"/>
+
+# Leg support prints
+
+<img src="Images/image.png"/> 
+---
+
 
